@@ -3,7 +3,7 @@ import React from 'react';
 function Header() {
     return (
         <header>
-            <h1>Keeper Clone</h1>
+            <h1>Vincent's Keep Clone</h1>
         </header>
     );
 
