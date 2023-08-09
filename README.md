@@ -1,4 +1,4 @@
-# My Clone Keep App
+# Clone of Keep App
 
 ## Description
 
